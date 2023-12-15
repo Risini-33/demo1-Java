@@ -1,0 +1,178 @@
+.Layoutmaincontainer {
+    display:flex;
+    background-color: #FCFFFA;
+}
+
+.Layoutcontainer {
+  display: grid;
+  grid-template-columns: 35% 180%;
+  background-color: #fcfffa;
+  padding-right: 45%;
+  overflow: hidden;
+  height: 670px;
+  width: 780px;
+}
+
+.Layoutcontainer1 {
+  position: relative;
+  width: 87%;
+  height: 100%;
+  overflow: hidden;
+  padding-bottom: 6%;
+  padding-top: 10%;
+  width: 100%;
+  box-shadow: 5px 0 5px -5px rgba(0, 0, 0.5, 0.5);
+  justify-content: center;
+  align-items: center;
+}
+
+.Layoutcontainer2 {
+  flex-direction: column;
+  align-items: flex-start;
+  width: 90%;
+  overflow: hidden;
+  background-color: #fcfffa;
+  height: auto;
+}
+
+.Layoutcolumn {
+  height: 50px;
+  color: black;
+  color: #191d1c;
+  font-size: 110%;
+  overflow: hidden;
+  margin: 4%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.maincontainer {
+  background-color: #E3F9D8;
+      height: 600px;
+      width: 1200px;
+}
+.pbody {
+  padding-top: 1%;
+  padding-left: 5%;
+  font-size: 160%;
+  padding-bottom: 2%;
+  display: flex;
+}
+.icons {
+  display: flex;
+  margin-left: 52%;
+}
+.container2 {
+  background-color: #fcfffa;
+    height: 80%;
+    margin-top: 4%;
+    margin-right: 2%;
+    width: 96%;
+    padding-top: 3%;
+}
+.today {
+  position: absolute;
+  font-size: 18px;
+  font-weight: 300;
+  font-family: Poppins;
+  color: #1b1d1b;
+  margin-top: 1%;
+  padding-left: 2%;
+}
+
+.datepicker {
+  position: absolute;
+  display: inline-block;
+}
+
+.displayicon {
+  display: flex;
+  text-align: end;
+  margin-left: auto;
+}
+.form {
+  display: grid;
+  height: 93%;
+  grid-template-columns: repeat(1, 1fr); /* Two columns layout */
+  gap: 3%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+  width: 70%;
+}
+
+.formRow {
+  display: grid;
+  grid-template-columns: 60% 60%;
+  gap: 10%;
+  align-items: center;
+}
+.formRowButton {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10%;
+  align-items: center;
+  padding-top: 3%;
+}
+
+.label {
+  text-align: left;
+  padding-left: 10%;
+  display: flex;
+}
+.text {
+  color: black;
+  font-size: 80%;
+  text-align: left;
+  padding-bottom: 2%;
+}
+.textheading {
+  color: black;
+  font-size: 120%;
+  text-align: left;
+  padding-bottom: 2%;
+}
+.textspan {
+  color: #96e071;
+  font-size: 100%;
+  text-align: left;
+  padding-bottom: 2%;
+}
+.button {
+  width: 10rem;
+  border-radius: 0.375rem; /* Equivalent to rounded-md in Tailwind */
+  padding-top: 0.25rem; /* Equivalent to py-1 in Tailwind */
+  padding-bottom: 0.25rem; /* Equivalent to py-1 in Tailwind */
+  font-size: 100%;
+  background-color: #5BBA6F;
+  border: none;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  color: white;
+}
+.button2 {
+  width: 10rem;
+    border-radius: 0.375rem; /* Equivalent to rounded-md in Tailwind */
+    padding-top: 0.25rem; /* Equivalent to py-1 in Tailwind */
+    padding-bottom: 0.25rem; /* Equivalent to py-1 in Tailwind */
+    font-size: 100%;
+    background-color: #FCFFFA;
+    border: #96e071;
+  color: #96e071;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  border: #96e071 1px solid;
+}
+.calendar{
+  display: inline-block;
+  appearance: none;
+  border: 18px solid #d2d6dc; /* Adjust the border color as needed */
+  border-radius: 8px; /* Adjust the border radius as needed */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Adjust the box shadow as needed */
+  padding: 2px 10px; /* Adjust the padding as needed */
+  color: #6b7280;
+}
+

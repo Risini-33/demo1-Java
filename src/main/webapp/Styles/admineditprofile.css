@@ -1,0 +1,232 @@
+.Layoutmaincontainer{
+    display:flex;
+    background-color: #FCFFFA;
+  }
+.Layoutcontainer {
+  display: grid;
+  grid-template-columns: 35% 180%;
+  background-color: #fcfffa;
+  padding-right: 45%;
+  overflow: hidden;
+  height: 670px;
+  width: 780px;
+}
+
+.Layoutcontainer1 {
+  position: relative;
+  width: 87%;
+  height: 100%;
+  overflow: hidden;
+  padding-bottom: 6%;
+  padding-top: 10%;
+  width: 100%;
+  box-shadow: 5px 0 5px -5px rgba(0, 0, 0.5, 0.5);
+  justify-content: center;
+  align-items: center;
+
+}
+.Layoutcontainer2 {
+  flex-direction: column;
+  align-items: flex-start;
+  width: 90%;
+  overflow: hidden;
+  background-color: #fcfffa;
+  height: auto;
+}
+
+  .Layoutheading {
+    color: #0a0a0a;
+    font-size: 150%;
+    padding-bottom: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+  }
+
+  .Layoutheading2 {
+    color: #535555;
+    font-size: 100%;
+    padding-bottom: 20px;
+    text-align: center;
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+  }
+
+  .Layoutbody {
+    color: #535555;
+    font-size: 80%;
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    text-align: center;
+    padding-left: 2%;
+    padding-right: 5%;
+  }
+
+  .Layouticons {
+    display: flex;
+    padding-left: 24%;
+    text-align: center;
+    align-content: center;
+  }
+
+  .Layoutbackarrow {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding-bottom: 15%;
+    padding-left: 5%;
+  }
+
+  .Layoutarrowicon {
+    width: 15px;
+    height: 15px;
+    border: solid #000;
+    border-width: 0 2px 2px 0;
+    transform: rotate(135deg);
+    margin-right: 5px;
+  }
+  .headingcontainer{
+      width: 160%;
+      height: 15%;
+  }
+  .pbody{
+      padding-top: 2%;
+      padding-left: 3.5%;
+      font-size: 160%;
+      padding-bottom: 25%;
+      display: flex;
+  }
+  .icons{
+      display: flex;
+      align-items: center;
+      padding-left: 2%;
+      padding-right: 2%;
+  }
+ .maincontainer{
+     height: 600px;
+     width: 1200px;
+ }
+
+
+ .body{
+     padding-top: 8%;
+     padding-left: 5%;
+     font-size: 100%;
+     display: flex;
+     align-items: start;
+     justify-content: left;
+     text-align: left;
+     font-weight: 800;
+     padding-right: 5%;
+ }
+ .displayicon{
+     display: flex;
+     text-align: end;
+     margin-left: auto;
+ }
+ .form {
+    padding-top: 6%;
+    padding-left: 2%;
+     display: grid;
+     grid-template-columns: repeat(1, 0.6fr);
+     gap: 25%;
+   }
+
+   .formRow {
+     display: grid;
+     grid-template-columns:60% 60%;
+     gap: 5%;
+     align-items: center;
+   }
+   .formRowButton{
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+     gap: 10%;
+     align-items: center;
+     padding-left: 15%;
+     padding-top: 3%;
+   }
+
+   .label {
+     text-align: left;
+     padding-left: 10%;
+     display:flex;
+   }
+
+   .input_selectgroup:focus {
+      outline: none;
+      height:30px;
+   }
+
+   .input_group {
+     display: flex;
+       border-radius: 0.75rem;
+       height:30px;
+       position: relative;
+   }
+   .select {
+     width: 100%;
+       padding-top: 0.25rem;
+       padding-bottom: 0.25rem;
+       padding-right: 0.75rem;
+       padding-left: 0.75rem;
+       border: 1px solid #5BBA6F;
+       border-radius: 0.75rem;
+       height:30px;
+       color:#8D8D8D;
+   }
+
+   .input_text {
+     width: 100%;
+       padding-top: 0.25rem;
+       padding-bottom: 0.25rem;
+       padding-left: 1rem;
+       padding-right: 1rem;
+       border: 1px solid #5BBA6F;
+       border-radius: 0.75rem;
+       outline: none;
+   }
+   .input_textselect {
+     width: 80%;
+       padding-top: 0.25rem;
+       padding-bottom: 0.25rem;
+       padding-left: 1rem;
+       padding-right: 1rem;
+       border: 1px solid #5BBA6F;
+       border-radius: 0.75rem;
+       outline: none;
+   }
+
+   .button {
+     width: 10rem;
+       background: linear-gradient(to right, #5BBA6F, #CAEFB7);
+       border-radius: 0.375rem;
+       padding-top: 0.25rem;
+       padding-bottom: 0.25rem;
+       font-size: 1.125rem;
+       color: #FCFFFA;
+     display: flex;
+     text-align: center;
+     justify-content: center;
+     border: none;
+   }
+
+ .input_text:focus{
+     color: #5BBA6F;
+ }
+
+ .input_text:not([type=email]) ∼ span:hover *{
+     color: #5BBA6F;
+     cursor: pointer;
+ }
+  .arrowicon {
+    width: 15px;
+    height: 15px;
+    border: solid #000;
+    border-width: 0 2px 2px 0;
+    transform: rotate(-45deg);
+  }
