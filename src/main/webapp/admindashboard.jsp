@@ -6,7 +6,7 @@
 <body>
 <div class="Layoutmaincontainer">
       <div class="Layoutcontainer">
-        <div class="Layoutcontainer1 flex flex-col items-start">
+        <div class="Layoutcontainer1 flex flex-col items-start" style="font-family: 'Poppins', sans-serif;">
           <img src="Assets/logo.png" style="width: 70%; height: auto; padding-left:35px;" />
           <br />
           <br />
@@ -32,7 +32,7 @@
         <div class="Layoutcontainer2">
           <div class="text-center py-10">
             <div class="headingcontainer">
-                  <div class="pbody">
+                  <div class="pbody" style="font-family: 'Poppins', sans-serif;">
                   Dashboard
 
                   <div class="icons">
@@ -50,8 +50,8 @@
                   <div class="cardscontainer">
                       <div class="cards">
                           <div class="body">
-                              Total Orders <br /><br />
-                              404
+                              <div style="font-weight: 300; font-size: large; display: block;">Total Orders</div> <br /><br />
+                              <div><div style="font-size: xx-large; padding-top: 50px; display: block ">404</div></div>
                               <div class="displayicon">
                                   <a href="/cart" style="text-align: center; margin-right: 30px;">
                                      <img src="Assets/cart.png" alt="Cart" style="width: 90px; height: 90px;">
@@ -62,8 +62,8 @@
 
                       <div class="cards">
                           <div class="body">
-                              Total Orders <br /><br />
-                              404
+                              <div style="font-weight: 300; font-size: large; display: block;">Total Customers</div> <br /><br />
+                              <div style="font-size: xx-large; padding-top: 50px; display: block ">404</div>
                               <div class="displayicon">
                                   <a href="/cart" style="text-align: center; margin-right: 30px;">
                                      <img src="Assets/customers.png" alt="Cart" style="width: 90px; height: 90px;">
@@ -76,8 +76,8 @@
                         <div class="cardscontainer">
                                   <div class="cards">
                                       <div class="body">
-                                          Total Branches <br /><br />
-                                          404
+                                          <div style="font-weight: 300; font-size: large; display: block;">Total Branches</div> <br /><br />
+                                          <div style="font-size: xx-large; padding-top: 50px; display: block ">404</div>
                                           <div class="displayicon">
                                               <a href="/cart" style="text-align: center; margin-right: 30px;">
                                                  <img src="Assets/home.png" alt="Cart" style="width: 90px; height: 90px;">
@@ -88,8 +88,8 @@
 
                                   <div class="cards">
                                       <div class="body">
-                                          Total Turnovers <br /><br />
-                                          404
+                                          <div style="font-weight: 300; font-size: large; display: block;">Total Turnovers</div> <br /><br />
+                                          <div style="font-size: xx-large; padding-top: 50px; display: block ">404</div>
                                           <div class="displayicon">
                                               <a href="/cart" style="text-align: center; margin-right: 30px;">
                                                  <img src="Assets/turnover.png" alt="Cart" style="width: 90px; height: 90px;">
