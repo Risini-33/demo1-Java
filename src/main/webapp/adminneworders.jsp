@@ -35,12 +35,12 @@
                   <div class="newordersTopic">New Orders</div>
 
                   <div class="icons">
-                  <a href="/adminprofile" class="text-text-100 justify-center mr-4">
-                  <MdOutlineFaceUnlock  size={30}/>
-                  </a>
-                  <a href="/adminnotification" class="text-text-100 ">
-                  <TbBellFilled size={30}/>
-                  </a>
+                      <a href="adminprofile.jsp" class="text-text-100 justify-center mr-4">
+                          <MdOutlineFaceUnlock  size={30}/>
+                      </a>
+                      <a href="adminnotification.jsp" class="text-text-100 ">
+                          <TbBellFilled size={30}/>
+                      </a>
                   </div>
                   </div>
                   </div>

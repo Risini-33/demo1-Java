@@ -36,12 +36,12 @@
                   Dashboard
 
                   <div class="icons">
-                  <a href="${pageContext.request.contextPath}/adminprofile" class="text-text-100 justify-center mr-4">
-                  <MdOutlineFaceUnlock  size={30}/>
+                      <a href="adminprofile.jsp" class="text-text-100 justify-center mr-4">
+                      <MdOutlineFaceUnlock  size={30}/>
                   </a>
-                  <a href="${pageContext.request.contextPath}/adminnotification" class="text-text-100 ">
-                  <TbBellFilled size={30}/>
-                  </a>
+                      <a href="adminnotification.jsp" class="text-text-100 ">
+                          <TbBellFilled size={30}/>
+                      </a>
                   </div>
                   </div>
                   </div>
