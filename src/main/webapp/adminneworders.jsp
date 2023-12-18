@@ -70,39 +70,39 @@
                                 <div class="lineDiv1"></div>
                             </td>
                         </tr>
+
+
+                        <tr>
+                            <td class="td1">CUSID_003</td>
+                            <td class="td">Tony Stark</td>
+                            <td class="td">12</td>
+                            <td class="td">LKR 2450.00</td>
+                            <td class="td">12/2/2023, 4:09:25 AM</td>
+                            <td class="td">
+                                <!-- Replace with appropriate JSP code for a Switch -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="td1">CUSID_003</td>
+                            <td class="td">Tony Stark</td>
+                            <td class="td">12</td>
+                            <td class="td">LKR 2450.00</td>
+                            <td class="td">12/2/2023, 4:09:25 AM</td>
+                            <td class="td">
+                                <!-- Replace with appropriate JSP code for a Switch -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="td1">CUSID_003</td>
+                            <td class="td">Tony Stark</td>
+                            <td class="td">12</td>
+                            <td class="td">LKR 2450.00</td>
+                            <td class="td">12/2/2023, 4:09:25 AM</td>
+                            <td class="td">
+                                <!-- Replace with appropriate JSP code for a Switch -->
+                            </td>
+                        </tr>
                         </thead>
-                            <tbody>
-                        <tr>
-                            <td class="td1">CUSID_003</td>
-                            <td class="td">Tony Stark</td>
-                            <td class="td">12</td>
-                            <td class="td">LKR 2450.00</td>
-                            <td class="td">12/2/2023, 4:09:25 AM</td>
-                            <td class="td">
-                                <!-- Replace with appropriate JSP code for a Switch -->
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="td1">CUSID_003</td>
-                            <td class="td">Tony Stark</td>
-                            <td class="td">12</td>
-                            <td class="td">LKR 2450.00</td>
-                            <td class="td">12/2/2023, 4:09:25 AM</td>
-                            <td class="td">
-                                <!-- Replace with appropriate JSP code for a Switch -->
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="td1">CUSID_003</td>
-                            <td class="td">Tony Stark</td>
-                            <td class="td">12</td>
-                            <td class="td">LKR 2450.00</td>
-                            <td class="td">12/2/2023, 4:09:25 AM</td>
-                            <td class="td">
-                                <!-- Replace with appropriate JSP code for a Switch -->
-                            </td>
-                        </tr>
-                            </tbody>
                     </table>
                     </div>
 
