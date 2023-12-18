@@ -68,14 +68,9 @@
                       <img src="Assets/bakerybg.jpeg" style="width: 290px; height: 200px;"/>
                       <div class="input_group">
                         <div class="textspan">B0023</div>
-                        <div class="textheading">Fresh Bread</div>
+                        <div class="textheading">Donut</div>
                         <div class="text">
-                          Lorem ipsum dolor sit amet consectetur. Vel lacus ut donec et.
-                          In nisl justo commodo nulla eget. Ac egestas mattis et morbi.
-                          In velit lacus eu pretium. Lorem ipsum dolor sit amet
-                          consectetur. Vel lacus ut donec et. In nisl justo commodo
-                          nulla eget. Vel lacus ut donec et. In nisl justo commodo nulla
-                          eget.
+                            Elevate your taste at Green Supermarket with our exclusive donuts! Freshly baked and creatively flavored, from classic glazed to trendy choices like matcha or bacon-covered, our donuts offer a symphony of flavors, perfect with your favorite Green Supermarket coffee. Indulge in a delightful treat!
                         </div>
 
                         <div class="formRowButton">
@@ -88,20 +83,15 @@
                         </div>
                       </div>
                     </div>
-
+<br><br>
 
                     <div class="formRow">
                       <img  src="Assets/banana.jpeg" style="width: 290px; height: 200px;"/>
                       <div class="input_group">
-                        <div class="textspan">B0023</div>
-                        <div class="textheading">Fresh Bread</div>
+                        <div class="textspan">B0036</div>
+                        <div class="textheading">Banana</div>
                         <div class="text">
-                          Lorem ipsum dolor sit amet consectetur. Vel lacus ut donec et.
-                          In nisl justo commodo nulla eget. Ac egestas mattis et morbi.
-                          In velit lacus eu pretium. Lorem ipsum dolor sit amet
-                          consectetur. Vel lacus ut donec et. In nisl justo commodo
-                          nulla eget. Vel lacus ut donec et. In nisl justo commodo nulla
-                          eget.
+                            Go bananas at Green Supermarket! Our fresh, high-quality bananas are a healthy choice, packed with nutrients and natural sweetness. Grab a bunch today for a burst of energy. Visit for the goodness of nature's own snack, and don't miss out on exclusive discounts and offers on a variety of fresh produce!
                         </div>
 
                         <div class="formRowButton">
