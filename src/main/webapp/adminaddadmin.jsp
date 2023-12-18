@@ -24,7 +24,7 @@
             Shop Owner
         </div>
         <div class="Layoutbody">
-        Lorem ipsum dolor sit amet consectetur. Purus lacus diam feugiat nisi morbi ut elit tincidunt quis. Sodales montes ullamcorper ac sit arcu ut ullamcorper sit.
+            Manages products, orders, and customer service. Drives marketing, analyzes performance, and ensures site security for successful operations.
         </div>
 
         </div>
