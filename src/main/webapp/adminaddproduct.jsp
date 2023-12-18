@@ -12,21 +12,21 @@
           <br />
           <br />
 
-          <a href="adminneworders,jsp" style="text-decoration: none;">
-            <div class="Layoutcolumn"}>New Orders</div>
-          </a>
-          <br />
-          <a href="Pages/admindashboard" style="text-decoration: none;">
-            <div class="Layoutcolumn"}>Dashboard</div>
-          </a>
-          <br />
-          <a href="/meat" style="text-decoration: none;">
-            <div class="Layoutcolumn"}>Order Recived</div>
-          </a>
-          <br />
-          <a href="/adminproduct" style="text-decoration: none;">
-            <div class="Layoutcolumn"}>Products</div>
-          </a>
+            <a href="adminneworders.jsp" style="text-decoration: none;">
+                <div class="Layoutcolumn">New Orders</div>
+            </a>
+            <br />
+            <a href="admindashboard.jsp" style="text-decoration: none;">
+                <div class="Layoutcolumn">Dashboard</div>
+            </a>
+            <br />
+            <a href="adminordersreceived.jsp" style="text-decoration: none;">
+                <div class="Layoutcolumn">Order Recived</div>
+            </a>
+            <br />
+            <a href="adminproduct.jsp" style="text-decoration: none;">
+                <div class="Layoutcolumn">Products</div>
+            </a>
         </div>
 
         <div class="Layoutcontainer2">

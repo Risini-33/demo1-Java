@@ -16,11 +16,11 @@
             <div class="Layoutcolumn">New Orders</div>
           </a>
           <br />
-          <a href="src/Pages/admindashboard" style="text-decoration: none;">
+          <a href="admindashboard.jsp" style="text-decoration: none;">
             <div class="Layoutcolumn">Dashboard</div>
           </a>
           <br />
-          <a href="${pageContext.request.contextPath}/meat" style="text-decoration: none;">
+          <a href="adminordersreceived.jsp" style="text-decoration: none;">
             <div class="Layoutcolumn">Order Recived</div>
           </a>
           <br />
