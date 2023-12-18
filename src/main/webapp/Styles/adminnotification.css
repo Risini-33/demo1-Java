@@ -23,6 +23,7 @@
   .backtext {
     margin-left: 20px;
     font-size: 150%;
+    font-family: 'Poppins', sans-serif;
     align-items: center;
   }
 
@@ -56,11 +57,13 @@
     padding-left: 2%;
     padding-top: 1%;
     font-weight: 300;
+    font-family: 'Poppins', sans-serif;
   }
   .text2{
     color: #8D8D8D;
     padding-left: 2%;
     padding-top: 0.4%;
     font-size: 90%;
+    font-family: 'Poppins', sans-serif;
     font-weight: 300;
   }
