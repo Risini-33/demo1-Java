@@ -53,7 +53,7 @@
                               <div style="font-weight: 300; font-size: large; display: block;">Total Orders</div> <br /><br />
                               <div><div style="overflow:hidden; margin-left:-100%;font-size: xxx-large; padding-top: 50px; display: block ">404</div></div>
                               <div class="displayicon">
-                                     <img src="Assets/cart.png" alt="Cart" style="opacity: 0.3; margin-right:30px; width: 150px; height: 150px;">
+                                     <img src="Assets/cart.png" alt="Cart" style="opacity: 0.3; margin-right:30px; width: 150px; height: 148px;">
 
                               </div>
                           </div>
@@ -76,7 +76,7 @@
                                           <div style="font-weight: 300; font-size: large; display: block;">Total Branches</div> <br /><br />
                                           <div> <div style="overflow:hidden; margin-left:-100%;font-size: xxx-large; padding-top: 50px; display: block ">404</div></div>
                                           <div class="displayicon">
-                                                 <img src="Assets/home.png" alt="Cart" style="opacity: 0.3; margin-right:30px; width: 150px; height: 150px;">
+                                                 <img src="Assets/home.png" alt="Cart" style="opacity: 0.3; margin-right:30px; width: 150px; height: 148px;">
                                           </div>
                                       </div>
                                   </div>

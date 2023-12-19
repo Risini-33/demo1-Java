@@ -83,7 +83,6 @@
     color: black;
     background-color: #E3F9D8;
     align-items: center;
-    color: #191D1C;
     font-size: 90%;
     position: relative;
     height: 70%;
@@ -91,9 +90,10 @@
     overflow: hidden;
     border-radius: 10px;
     border-color: #5BBA6F;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.25);
 }
 .cards:hover {
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.7); /* Adjusted box-shadow on hover */
+    box-shadow: 0px 4px 30px rgba(150, 224, 113, 0.15);/* Adjusted box-shadow on hover */
 }
 .body{
     font-family: 'Poppins', sans-serif;
