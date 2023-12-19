@@ -103,10 +103,6 @@
 
 .tableH {
     position: relative;
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    justify-content: flex-start;
     opacity: 0.7;
     text-align: left;
     font-size: 18px;
