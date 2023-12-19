@@ -83,10 +83,6 @@
   padding-left: 2%;
 }
 
-.datepicker {
-  position: absolute;
-  display: inline-block;
-}
 
 .displayicon {
   display: flex;
@@ -174,6 +170,7 @@
   border: #96e071 1px solid;
 }
 .calendar{
+  position: absolute;
   display: inline-block;
   appearance: none;
   border: 18px solid #d2d6dc; /* Adjust the border color as needed */
@@ -181,5 +178,40 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Adjust the box shadow as needed */
   padding: 2px 10px; /* Adjust the padding as needed */
   color: #6b7280;
+}
+
+.search-container {
+  margin-bottom: 20px;
+}
+
+.search-label {
+  font-size: 14px;
+  color: #666;
+}
+
+.search-input {
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #5BBA6F;
+  border-radius: 12px;
+}
+
+.search-button {
+  padding: 8px 16px;
+  font-size: 14px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.search-button:hover {
+  background-color: #96e071;
+}
+
+.result-text {
+  font-size: 16px;
+  color: #333;
 }
 
