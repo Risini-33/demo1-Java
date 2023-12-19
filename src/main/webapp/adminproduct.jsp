@@ -75,10 +75,10 @@
 
                         <div class="formRowButton">
                           <button type="submit" class="button2">
-                            Edit
+                            1
                           </button>
                           <button type="submit" class="button">
-                            Clear
+                            120.00 LKR
                           </button>
                         </div>
                       </div>
@@ -96,10 +96,10 @@
 
                         <div class="formRowButton">
                                           <button type="submit" class="button2">
-                                            Edit
+                                            500g
                                           </button>
                                           <button type="submit" class="button">
-                                            Clear
+                                            250.00 LKR
                                           </button>
                         </div>
                       </div>
