@@ -89,10 +89,12 @@
     height: 70%;
     width: 90%; /* Adjusted width to 100% */
     overflow: hidden;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     border-radius: 10px;
+    border-color: #5BBA6F;
 }
-
+.cards:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.7); /* Adjusted box-shadow on hover */
+}
 .body{
     font-family: 'Poppins', sans-serif;
     padding-top: 8%;
@@ -110,3 +112,4 @@
     text-align: end;
     margin-left: auto;
 }
+

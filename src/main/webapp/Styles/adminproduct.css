@@ -199,7 +199,7 @@
 .search-button {
   padding: 8px 16px;
   font-size: 14px;
-  background-color: #4CAF50;
+  background-color: #CAEFB7;
   color: #fff;
   border: none;
   border-radius: 12px;
@@ -207,7 +207,7 @@
 }
 
 .search-button:hover {
-  background-color: #96e071;
+  background-color: #5BBA6F;
 }
 
 .result-text {

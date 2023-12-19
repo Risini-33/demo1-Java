@@ -51,11 +51,10 @@
                       <div class="cards">
                           <div class="body">
                               <div style="font-weight: 300; font-size: large; display: block;">Total Orders</div> <br /><br />
-                              <div><div style="font-size: xx-large; padding-top: 50px; display: block ">404</div></div>
+                              <div><div style="overflow:hidden; margin-left:-100%;font-size: xxx-large; padding-top: 50px; display: block ">404</div></div>
                               <div class="displayicon">
-                                  <a href="${pageContext.request.contextPath}/cart" style="text-align: center; margin-right: 30px;">
-                                     <img src="Assets/cart.png" alt="Cart" style="width: 90px; height: 90px;">
-                                  </a>
+                                     <img src="Assets/cart.png" alt="Cart" style="opacity: 0.3; margin-right:30px; width: 150px; height: 150px;">
+
                               </div>
                           </div>
                       </div>
@@ -63,11 +62,9 @@
                       <div class="cards">
                           <div class="body">
                               <div style="font-weight: 300; font-size: large; display: block;">Total Customers</div> <br /><br />
-                              <div style="font-size: xx-large; padding-top: 50px; display: block ">404</div>
+                             <div> <div style="overflow:hidden; margin-left:-90%;font-size: xxx-large; padding-top: 50px; display: block ">404</div></div>
                               <div class="displayicon">
-                                  <a href="${pageContext.request.contextPath}/cart" style="text-align: center; margin-right: 30px;">
-                                     <img src="Assets/customers.png" alt="Cart" style="width: 90px; height: 90px;">
-                                  </a>
+                                     <img src="Assets/customers.png" alt="Cart" style="opacity: 0.3; margin-right:30px; width: 180px; height: 180px;">
                               </div>
                           </div>
                       </div>
@@ -77,11 +74,9 @@
                                   <div class="cards">
                                       <div class="body">
                                           <div style="font-weight: 300; font-size: large; display: block;">Total Branches</div> <br /><br />
-                                          <div style="font-size: xx-large; padding-top: 50px; display: block ">404</div>
+                                          <div> <div style="overflow:hidden; margin-left:-100%;font-size: xxx-large; padding-top: 50px; display: block ">404</div></div>
                                           <div class="displayicon">
-                                              <a href="${pageContext.request.contextPath}/cart" style="text-align: center; margin-right: 30px;">
-                                                 <img src="Assets/home.png" alt="Cart" style="width: 90px; height: 90px;">
-                                              </a>
+                                                 <img src="Assets/home.png" alt="Cart" style="opacity: 0.3; margin-right:30px; width: 150px; height: 150px;">
                                           </div>
                                       </div>
                                   </div>
@@ -89,11 +84,9 @@
                                   <div class="cards">
                                       <div class="body">
                                           <div style="font-weight: 300; font-size: large; display: block;">Total Turnovers</div> <br /><br />
-                                          <div style="font-size: xx-large; padding-top: 50px; display: block ">404</div>
+                                          <div> <div style="overflow:hidden; margin-left:-100%;font-size: xxx-large; padding-top: 50px; display: block ">404</div></div>
                                           <div class="displayicon">
-                                              <a href="${pageContext.request.contextPath}/cart" style="text-align: center; margin-right: 30px;">
-                                                 <img src="Assets/turnover.png" alt="Cart" style="width: 90px; height: 90px;">
-                                              </a>
+                                                 <img src="Assets/turnover.png" alt="Cart" style="opacity: 0.3; margin-right:30px; width: 150px; height: 150px;">
                                           </div>
                                       </div>
                                   </div>
