@@ -68,7 +68,7 @@
                               />
                       <div class="search-container">
                           <form action="" method="get">
-                              <input class="search-input" type="text" id="searchTerm" name="query" placeholder="Enter your search term">
+                              <input class="search-input" type="text" id="searchTerm" name="query" placeholder="Enter product code">
                               <input class="search-button" type="submit" value="Search">
                           </form>
                       </div>
