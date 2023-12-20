@@ -81,6 +81,9 @@
   color: #1b1d1b;
   margin-top: 1%;
   padding-left: 2%;
+  flex: 1;
+  /* You can adjust the width as needed */
+  white-space: nowrap;
 }
 
 
@@ -170,6 +173,8 @@
   border: #96e071 1px solid;
 }
 .calendar{
+  flex: 1;
+  margin: 0 10px;
   position: absolute;
   display: inline-block;
   appearance: none;
@@ -182,6 +187,7 @@
 
 .search-container {
   margin-bottom: 20px;
+  flex: 1;
 }
 
 .search-label {
@@ -214,4 +220,8 @@
   font-size: 16px;
   color: #333;
 }
-
+.threeinone{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
